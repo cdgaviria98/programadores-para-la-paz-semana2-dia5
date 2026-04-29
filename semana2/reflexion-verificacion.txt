@@ -1,8 +1,8 @@
 Reflexión de verificación responsable
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: Cristian David Gaviria Mosquera
+Fecha: 29 de abril de 2026
+Nombre de la rama: cristian_gaviria
 
 Escribe una reflexión de 8 a 10 líneas respondiendo las siguientes preguntas:
 
@@ -12,3 +12,10 @@ Escribe una reflexión de 8 a 10 líneas respondiendo las siguientes preguntas:
 4. ¿Qué relación tiene el formulario “Participa” con la participación ciudadana?
 
 Respuesta:
+
+No verificar la información antes de compartirla vulnera la confianza pública y entorpece la toma de decisiones acertadas. 
+La responsabilidad informativa es, por tanto, una herramienta de protección comunitaria que fortalece el tejido social mediante 
+el uso de hechos ciertos. Para que este proceso sea democrático, la tecnología debe ser accesible, eliminando barreras de entrada 
+y promoviendo una verdadera inclusión digital. Instrumentos como el formulario "Participa" son esenciales, ya que facilitan el 
+ejercicio de la ciudadanía y la expresión de necesidades. En conclusión, la unión de información verificada y diseño incluyente 
+permite que la comunidad ejerza su capacidad de agencia para construir un entorno más justo.
